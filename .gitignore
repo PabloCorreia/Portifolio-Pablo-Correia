@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Outros arquivos sensíveis
+.env
+.env.*
+*.pem
+*.key
